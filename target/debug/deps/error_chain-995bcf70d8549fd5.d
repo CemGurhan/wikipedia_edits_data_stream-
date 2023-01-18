@@ -1,0 +1,10 @@
+/Users/cemgurhan/atos/cerebro/wikipedia_edits_data_stream/target/debug/deps/error_chain-995bcf70d8549fd5.rmeta: /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/lib.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/impl_error_chain_kind.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/error_chain.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/quick_main.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/backtrace.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/example_generated.rs
+
+/Users/cemgurhan/atos/cerebro/wikipedia_edits_data_stream/target/debug/deps/error_chain-995bcf70d8549fd5.d: /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/lib.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/impl_error_chain_kind.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/error_chain.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/quick_main.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/backtrace.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/example_generated.rs
+
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/lib.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/impl_error_chain_kind.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/error_chain.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/quick_main.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/backtrace.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/error-chain-0.12.4/src/example_generated.rs:

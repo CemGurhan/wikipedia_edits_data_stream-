@@ -1,0 +1,11 @@
+/Users/cemgurhan/atos/cerebro/wikipedia_edits_data_stream/target/release/deps/httparse-f58efd72b0e11d0a.rmeta: /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/cemgurhan/atos/cerebro/wikipedia_edits_data_stream/target/release/deps/libhttparse-f58efd72b0e11d0a.rlib: /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/cemgurhan/atos/cerebro/wikipedia_edits_data_stream/target/release/deps/httparse-f58efd72b0e11d0a.d: /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs /Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs
+
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/lib.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/iter.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/macros.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/mod.rs:
+/Users/cemgurhan/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.8.0/src/simd/fallback.rs:
